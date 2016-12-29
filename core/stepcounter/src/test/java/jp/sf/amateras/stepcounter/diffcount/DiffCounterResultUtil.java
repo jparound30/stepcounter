@@ -13,7 +13,8 @@ import org.junit.Assert;
 
 public class DiffCounterResultUtil {
 
-	public static String encode	= System.getProperty("file.encoding");
+//	public static String encode	= System.getProperty("file.encoding");
+	public static String encode	= "Shift-JIS";
 
 	private DiffCounterResultUtil() {}
 
